@@ -18,3 +18,4 @@ This API allows users to manage books using CRUD operations. It uses Node.js and
 4. Start the server using `npm start`.
 5. The API will be available at http://localhost:5000
 
+![image](https://github.com/Amritpal985/bookChallengeServer/assets/101972560/b5c54d80-7984-4511-8425-4bda578ab8e0)
